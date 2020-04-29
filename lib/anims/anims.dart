@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:simple_animations/simple_animations.dart';
-import 'package:simple_animations/simple_animations/controlled_animation.dart';
 
 //Helper Enum Class
 enum SlideFrom { TOP, BOTTOM, LEFT, RIGHT }
